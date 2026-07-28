@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>ATHENA Family Office — Mises à jour</title>
+    <link>https://github.com/loks93/ATHENA-Updates</link>
+    <description>Mises à jour officielles et signées d’ATHENA Family Office.</description>
+    <language>fr</language>
+    <item>
+      <title>ATHENA 2.3</title>
+      <pubDate>Tue, 28 Jul 2026 16:51:19 +0200</pubDate>
+      <sparkle:version>230</sparkle:version>
+      <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>ATHENA 2.3 — Mises à jour sécurisées</h2>
+        <ul>
+          <li>Ajout d’un système de mise à jour intégré et signé.</li>
+          <li>Recherche automatique quotidienne des nouvelles versions.</li>
+          <li>Commande manuelle « Rechercher les mises à jour… » dans le menu ATHENA.</li>
+          <li>Réglage permettant d’activer ou désactiver la recherche automatique.</li>
+          <li>Flux public séparé du code source et des données personnelles.</li>
+        </ul>
+        <p>Cette première version équipée du moteur de mise à jour doit être installée une dernière fois manuellement. Les versions suivantes pourront ensuite être proposées directement dans ATHENA.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/loks93/ATHENA-Updates/releases/download/v2.3.0/ATHENA-2.3.0.zip"
+        length="3355881"
+        type="application/octet-stream"
+        sparkle:edSignature="5tCtrgbunrCQlql2pLOJjZMblC/Bwc2uXPS7OL9p3J0DvkuHAeKh75i01aGFv8E1zmJYbhKlRRQ/m6Qcfx5LDA=="
+        sparkle:os="macos" />
+    </item>
+  </channel>
+</rss>
