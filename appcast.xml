@@ -8,6 +8,31 @@
     <description>Mises à jour officielles et signées d’ATHENA Family Office.</description>
     <language>fr</language>
     <item>
+      <title>ATHENA 2.5</title>
+      <pubDate>Wed, 29 Jul 2026 13:12:00 +0200</pubDate>
+      <sparkle:version>250</sparkle:version>
+      <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>ATHENA 2.5 — Parcours Patrimoine</h2>
+        <ul>
+          <li>Guide permanent pour éviter les doubles saisies entre les catégories.</li>
+          <li>Formulaires Actif et Dette entièrement réorganisés et expliqués.</li>
+          <li>Ajout de la valeur d’acquisition, des notes, du taux et de la date de fin.</li>
+          <li>États vides indiquant clairement comment commencer.</li>
+          <li>Actions de modification et de suppression désormais visibles.</li>
+          <li>Contrôles de saisie et confirmation avant suppression.</li>
+        </ul>
+        <p>L’onglet Patrimoine devient le centre de consolidation des éléments qui ne disposent pas déjà d’une page spécialisée.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/loks93/ATHENA-Updates/releases/download/v2.5.0/ATHENA-2.5.0.zip"
+        length="3751905"
+        type="application/octet-stream"
+        sparkle:edSignature="vlkxID2Xiv/wGAHoS4wZtaeeEtTl/2dBFHU5Qbgn4ig0+BU2Gh784OI0omCzNaxkkO4Yc6BqiAXvIxrlO8NdDA=="
+        sparkle:os="macos" />
+    </item>
+    <item>
       <title>ATHENA 2.4</title>
       <pubDate>Wed, 29 Jul 2026 11:01:53 +0200</pubDate>
       <sparkle:version>240</sparkle:version>
