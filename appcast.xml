@@ -8,6 +8,31 @@
     <description>Mises à jour officielles et signées d’ATHENA Family Office.</description>
     <language>fr</language>
     <item>
+      <title>ATHENA 2.6</title>
+      <pubDate>Wed, 29 Jul 2026 15:12:00 +0200</pubDate>
+      <sparkle:version>260</sparkle:version>
+      <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>ATHENA 2.6 — Portefeuille guidé</h2>
+        <ul>
+          <li>Guide intégré indiquant où trouver chaque donnée sur un relevé.</li>
+          <li>Import direct de relevés PDF, images et CSV depuis le portefeuille.</li>
+          <li>Contrôle obligatoire des valeurs dans le coffre documentaire.</li>
+          <li>Indicateurs de valeur, montant investi et plus-value latente.</li>
+          <li>Formulaire simplifié avec aperçu avant enregistrement.</li>
+          <li>Modification datée, audit et suppression protégée des positions.</li>
+        </ul>
+        <p>Le suivi reste entièrement local et ne nécessite aucune connexion à une banque ou à un courtier.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/loks93/ATHENA-Updates/releases/download/v2.6.0/ATHENA-2.6.0.zip"
+        length="3813677"
+        type="application/octet-stream"
+        sparkle:edSignature="c2tJ1nDOFKcRwdEEg1MGp6yJnqscKIDVHW+HRrrPvwzAENStvfbHDY/zkjaOHusA3ZEzeZeAM2/l4kZZZcgbBA=="
+        sparkle:os="macos" />
+    </item>
+    <item>
       <title>ATHENA 2.5</title>
       <pubDate>Wed, 29 Jul 2026 13:12:00 +0200</pubDate>
       <sparkle:version>250</sparkle:version>
