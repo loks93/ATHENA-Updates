@@ -8,6 +8,31 @@
     <description>Mises à jour officielles et signées d’ATHENA Family Office.</description>
     <language>fr</language>
     <item>
+      <title>ATHENA 2.4</title>
+      <pubDate>Wed, 29 Jul 2026 11:01:53 +0200</pubDate>
+      <sparkle:version>240</sparkle:version>
+      <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>ATHENA 2.4 — Aide contextuelle</h2>
+        <ul>
+          <li>Ajout d’un bouton d’aide dans chaque catégorie.</li>
+          <li>Présentation du rôle de chaque page.</li>
+          <li>Liste des données attendues avant la saisie.</li>
+          <li>Procédure numérotée adaptée à chaque onglet.</li>
+          <li>Résultat attendu et précautions clairement indiqués.</li>
+          <li>Compatibilité complète avec les libellés d’accessibilité.</li>
+        </ul>
+        <p>Cette fondation permet maintenant d’améliorer les pages une par une tout en conservant un accompagnement cohérent.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/loks93/ATHENA-Updates/releases/download/v2.4.0/ATHENA-2.4.0.zip"
+        length="3393164"
+        type="application/octet-stream"
+        sparkle:edSignature="ecgJnla3TshNRccbwyiw4NldgDe/6nCRLwkqIomvbgUHj46951hlnwFd9+V90oBLHVNJsS0Q9SA5qzN2ZaY6Ag=="
+        sparkle:os="macos" />
+    </item>
+    <item>
       <title>ATHENA 2.3</title>
       <pubDate>Tue, 28 Jul 2026 16:51:19 +0200</pubDate>
       <sparkle:version>230</sparkle:version>
