@@ -8,6 +8,31 @@
     <description>Mises à jour officielles et signées d’ATHENA Family Office.</description>
     <language>fr</language>
     <item>
+      <title>ATHENA 2.7</title>
+      <pubDate>Wed, 29 Jul 2026 23:13:00 +0200</pubDate>
+      <sparkle:version>270</sparkle:version>
+      <sparkle:shortVersionString>2.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>ATHENA 2.7 — Import multi-position</h2>
+        <ul>
+          <li>Reconnaissance des colonnes courantes des relevés CSV.</li>
+          <li>Aperçu modifiable de toutes les positions détectées.</li>
+          <li>Sélection individuelle des lignes à intégrer.</li>
+          <li>Distinction entre création et mise à jour.</li>
+          <li>Rapprochement par compte et ISIN ou ticker.</li>
+          <li>Provenance et audit enregistrés pour chaque validation.</li>
+        </ul>
+        <p>Le CSV devient le format recommandé pour intégrer plusieurs positions de manière fiable et contrôlée.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/loks93/ATHENA-Updates/releases/download/v2.7.0/ATHENA-2.7.0.zip"
+        length="3904756"
+        type="application/octet-stream"
+        sparkle:edSignature="6RJmGuDZb9ZiqXLxI8u9ipt+Zpf+JDdrH0EnGGXere1TZVPRGnfVM2gxU+Na/DBXKBDxw8d+Js5r5ecg/jNGDQ=="
+        sparkle:os="macos" />
+    </item>
+    <item>
       <title>ATHENA 2.6</title>
       <pubDate>Wed, 29 Jul 2026 15:12:00 +0200</pubDate>
       <sparkle:version>260</sparkle:version>
