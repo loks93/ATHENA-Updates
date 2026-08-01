@@ -10,6 +10,29 @@
 
 
     <item>
+      <title>ATHENA 2.9.8</title>
+      <pubDate>Sun, 02 Aug 2026 00:45:00 +0200</pubDate>
+      <sparkle:version>298</sparkle:version>
+      <sparkle:shortVersionString>2.9.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>ATHENA 2.9.8 — Rotation finale de la signature</h2>
+        <ul>
+          <li>Remplacement définitif de l’identité de signature Sparkle.</li>
+          <li>Conservation des correctifs de fiabilité de la version 2.9.7.</li>
+          <li>Mise à jour automatique sécurisée depuis ATHENA 2.9.7.</li>
+        </ul>
+        <p>Cette version finalise la transition de sécurité des mises à jour ATHENA.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/loks93/ATHENA-Updates/releases/download/v2.9.8/ATHENA-2.9.8-macOS.zip"
+        length="10825063"
+        type="application/octet-stream"
+        sparkle:edSignature="JG9N7TMgH4cWFTUPYWH5wVmyEQafNa6FyB5pAd+qefeNTD6IKDS3OJtnGqJBQ6KiepO3LnQ7xxROfp+IAdm9Cg=="
+        sparkle:os="macos" />
+    </item>
+
+    <item>
       <title>ATHENA 2.9.7</title>
       <pubDate>Sat, 01 Aug 2026 23:58:00 +0200</pubDate>
       <sparkle:version>297</sparkle:version>
