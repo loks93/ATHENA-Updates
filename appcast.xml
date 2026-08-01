@@ -7,6 +7,30 @@
     <link>https://github.com/loks93/ATHENA-Updates</link>
     <description>Mises à jour officielles et signées d’ATHENA Family Office.</description>
     <language>fr</language>
+
+    <item>
+      <title>ATHENA 2.9.6</title>
+      <pubDate>Sat, 01 Aug 2026 18:43:14 +0200</pubDate>
+      <sparkle:version>296</sparkle:version>
+      <sparkle:shortVersionString>2.9.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>ATHENA 2.9.6 — Mises à jour sécurisées</h2>
+        <ul>
+          <li>Nouvelle identité visuelle officielle ATHENA.</li>
+          <li>Correction du statut des crédits et confirmation explicite avant solde.</li>
+          <li>Nouvelle identité de signature Sparkle conservée dans le Trousseau macOS.</li>
+          <li>Chaîne de publication reproductible et contrôles GitHub Apple Silicon.</li>
+        </ul>
+        <p>Cette version de transition installe la nouvelle identité de mise à jour sécurisée.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/loks93/ATHENA-Updates/releases/download/v2.9.6/ATHENA-2.9.6-macOS.zip"
+        length="10810351"
+        type="application/octet-stream"
+        sparkle:edSignature="2fbjdZLIzQytP84g+m7Ps9pjwqeiuh+t8rZ7PCDzVIo1G0QYEStjY7y/Fi7ZKTtMAUiQ8V11vOGlEUo3xSUZDQ=="
+        sparkle:os="macos" />
+    </item>
     <item>
       <title>ATHENA 2.7</title>
       <pubDate>Wed, 29 Jul 2026 23:13:00 +0200</pubDate>
