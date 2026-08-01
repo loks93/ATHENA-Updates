@@ -8,6 +8,31 @@
     <description>Mises à jour officielles et signées d’ATHENA Family Office.</description>
     <language>fr</language>
 
+
+    <item>
+      <title>ATHENA 2.9.7</title>
+      <pubDate>Sat, 01 Aug 2026 23:58:00 +0200</pubDate>
+      <sparkle:version>297</sparkle:version>
+      <sparkle:shortVersionString>2.9.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>ATHENA 2.9.7 — Correctifs de fiabilité</h2>
+        <ul>
+          <li>Correction du décodage des synthèses du comité multi-agents.</li>
+          <li>Amélioration de l’extraction OCR des mensualités.</li>
+          <li>Consolidation des investissements dans la catégorie Portefeuille.</li>
+          <li>Rotation corrective de la clé de mise à jour sécurisée.</li>
+        </ul>
+        <p>Cette version assure la transition vers la nouvelle identité de signature ATHENA.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/loks93/ATHENA-Updates/releases/download/v2.9.7/ATHENA-2.9.7-macOS.zip"
+        length="10825069"
+        type="application/octet-stream"
+        sparkle:edSignature="T/wyvhQFRXpZDmxVDmCsceaEwkyg+ja2qGP2P/uysYhswtu/ycQdtqhaByEiBIqtGJsExnz2Z5JMfu3rul1EDg=="
+        sparkle:os="macos" />
+    </item>
+
     <item>
       <title>ATHENA 2.9.6</title>
       <pubDate>Sat, 01 Aug 2026 18:43:14 +0200</pubDate>
